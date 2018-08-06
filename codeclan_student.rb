@@ -1,5 +1,7 @@
 class CodeClanStudent
 
+
+
 def initialize(name, cohort, talk, fav_language)
   @name = name
   @cohort = cohort
