@@ -30,4 +30,9 @@ def set_coach_name(new_name)
 
 end
 
+def add_players(new_player)
+  @players << new_player
+
+end
+
 end
